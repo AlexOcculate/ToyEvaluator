@@ -1,4 +1,3 @@
-```markdown
 # ToyEvaluator (Module #9)
 
 Automated agent testing and scoring — measure what your agent does before you trust it.
@@ -343,6 +342,6 @@ Build order:
   → #8 ToySandBox 
 
    → **#9 ToyEvaluator** 
-   
+
    → #10 ToyCapstone
 ```
